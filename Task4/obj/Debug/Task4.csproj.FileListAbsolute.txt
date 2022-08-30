@@ -1,0 +1,8 @@
+C:\Users\momen\source\repos\Dev_Test1\Task4\bin\Debug\Task4.exe.config
+C:\Users\momen\source\repos\Dev_Test1\Task4\bin\Debug\Task4.exe
+C:\Users\momen\source\repos\Dev_Test1\Task4\bin\Debug\Task4.pdb
+C:\Users\momen\source\repos\Dev_Test1\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Users\momen\source\repos\Dev_Test1\Task4\obj\Debug\Task4.csproj.SuggestedBindingRedirects.cache
+C:\Users\momen\source\repos\Dev_Test1\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\momen\source\repos\Dev_Test1\Task4\obj\Debug\Task4.exe
+C:\Users\momen\source\repos\Dev_Test1\Task4\obj\Debug\Task4.pdb
